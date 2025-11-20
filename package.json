@@ -1,0 +1,26 @@
+{
+  "name": "brms_site",
+  "version": "1.0.0",
+  "description": "A Barangay Management System made for Barangays in every municipality in the Philippines",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser or use Live Server extension in VS Code'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeJack76/brms_site.git"
+  },
+  "keywords": [
+    "barangay",
+    "management",
+    "philippines",
+    "government",
+    "web-app"
+  ],
+  "author": "codeJack76",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeJack76/brms_site/issues"
+  },
+  "homepage": "https://github.com/codeJack76/brms_site#readme"
+}
